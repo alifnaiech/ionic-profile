@@ -1,0 +1,7 @@
+{
+  "name": "storage-management-application",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
